@@ -4,8 +4,11 @@
 
 ### 访问
 
-[获取下载地址](https://url65.ctfile.com/f/32521565-650109107-c05004?p=9406)  
- (访问密码: 9406)
+[百度云盘](https://pan.baidu.com/s/19wcQdOmEqeXWd3r50WVwiw?pwd=63w7)
+提取码: 63w7
+
+[123云盘](https://www.123pan.com/s/FZtA-r4Ic3)
+提取码: rtrt
 
 
 ### 内含：  
