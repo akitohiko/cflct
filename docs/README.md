@@ -20,6 +20,7 @@ Ableton Live 10
 iZotope RX 9  
 iZotope RX 10 (仅供Windows用户尝鲜)
   
-  
+123网盘最近加严了审核，Live所有资源被下架，暂时无法上传
+
 #### 
 「最终，森林会记住一切」
