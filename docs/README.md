@@ -15,7 +15,7 @@
 
 
 ### 内含：  
-Ableton Live 11  (11.2暂时只传了Windows版本)
+Ableton Live 11  (11.2暂时只传了Windows版本)  
 Ableton Live 10  
 iZotope RX 9  
 iZotope RX 10 (仅供Windows用户尝鲜)
