@@ -59,7 +59,7 @@ export default function Home() {
         <a
           href="https://hoshibox.deltaasterism.com"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noreferrer"
         >
           所有资源均收集于网络，下载后请于24小时内删除
         </a>
