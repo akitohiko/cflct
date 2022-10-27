@@ -47,11 +47,13 @@ export default function Home() {
           </a>
         </div>
         <p className={styles.description}>
-          内含：
+          内含最新版：
           <br/>
           Ableton Live 11 & 10
           <br/>
           iZotope RX 9 & 10
+          <br/>
+          （如果部分版本Bug比较多将会等下一个大版本更新后上架）
         </p>
       </main>
 
