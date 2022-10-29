@@ -30,20 +30,22 @@ export default function Home() {
             <p>提取码: 63w7</p>
           </a>
 
-          <a href="https://www.123pan.com/s/FZtA-r4Ic3" className={styles.card} target="_blank">
-            <h2>123云盘 &rarr;</h2>
-            <p>
-              提取码: rtrt
-            </p>
-          </a>
-
           <a
-            href="https://www.aliyundrive.com/s/KXVEHiNdyqf"
+            href="https://cloud.189.cn/t/nuiU3qNz6ri2"
             className={styles.card}
             target="_blank"
           >
-            <h2>阿里云盘 &rarr;</h2>
-            <p>提取码: uw22</p>
+            <h2>天翼云盘 &rarr;</h2>
+            <p>访问码:5ei2</p>
+          </a>
+
+          <a
+            href="https://deltaaster-my.sharepoint.com/:f:/g/personal/arkitoaya_deltaaster_onmicrosoft_com/ErzZ871R85JOmID6aFgQQtgBvlgJKiaHNA02MKmxOLxXoA?e=IGrxOQ"
+            className={styles.card}
+            target="_blank"
+          >
+            <h2>OneDrive &rarr;</h2>
+            <p>无需登录，速度看人</p>
           </a>
         </div>
         <p className={styles.description}>
