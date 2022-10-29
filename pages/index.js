@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
           >
             <h2>OneDrive &rarr;</h2>
-            <p>无需登录，速度看人</p>
+            <p>无需会员，速度看脸</p>
           </a>
         </div>
         <p className={styles.description}>
